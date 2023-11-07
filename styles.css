@@ -1,0 +1,15 @@
+*{
+    margin:0;
+}
+
+section{
+    display:flex;
+    justify-content: space-between;
+
+}
+video{
+    width: 50vw;
+    border:5px solid black;
+    text-align:center;
+    padding:5px;
+}
